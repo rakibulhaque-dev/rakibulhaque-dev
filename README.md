@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Rakib,
-#### Jr. MERN Web Developer
+###### MERN Web Developer
 ![Jr. MERN Web Developer](https://img.freepik.com/free-vector/desktop-smartphone-app-development_23-2148683810.jpg?w=826&t=st=1687878849~exp=1687879449~hmac=14ea3926fc79153d2527f11d5262c32af80c54da54b753098b5eb4a5fec36eec)
 
 I am Rakib, A MERN Stack Web Developer. I trained through 1000+ hours learning HTML, CSS, Tailwind CSS, Bootstrap, JavaScript, React.Js, Node.Js, Express.Js, and MongoDB. I am an expert in HTML, CSS, Bootstrap, Tailwind CSS, daisyUI, JavaScript, ES6, React.js, and comfortable with Node.js, Express.js, MongoDB, Firebase. But I’m always adding new skills to my repertoire. I’m also eager to meet other Developers in the area, so feel free to connect!
